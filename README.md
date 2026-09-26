@@ -1,4 +1,4 @@
-# Student Performance Predictor
+# Student Performance Analyser
 
 Predicts a student's maths score from gender, ethnic group, parental education, lunch type, test
 preparation course and their reading and writing scores. The project is structured as a small

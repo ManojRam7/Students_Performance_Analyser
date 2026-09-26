@@ -19,7 +19,7 @@ def get_requirements(file_path: str) -> List[str]:
 
 
 setup(
-    name="student-performance-predictor",
+    name="student-performance-analyser",
     version="1.0.0",
     description="End-to-end ML project to predict student math performance",
     long_description=Path("README.md").read_text(encoding="utf-8"),
